@@ -1,0 +1,5 @@
+- Nama lengkap : Moch habiballah
+- NPM          : 2313020226
+- Hobi         : watching movies and reading novels
+- Bahasa pemrograman yang ingin dipelajari : next js
+- Target karier di bidang teknologi : Target karier saya adalah menjadi seorang Data Analyst yang mampu mengolah dan menganalisis data untuk membantu pengambilan keputusan di dalam organisasi atau perusahaan.
